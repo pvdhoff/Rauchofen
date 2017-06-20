@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<rexpfd>
+    <destination path="Philipp-HP.piofen:/home/pi/Rauchofen/libdebug"/>
+    <options createDirectoryStructure="false" createSelectedOnly="true" descriptionFilePath="/Rauchofen/upload_debug_libs.rexpfd" overWriteExistingFiles="true" reviewSynchronize="false" saveSettings="true"/>
+    <selectedElements>
+        <file path="/BaseThread/Debug/libBaseThread.so"/>
+        <file path="/W1_Temp/Debug/libW1_Temp.so"/>
+    </selectedElements>
+</rexpfd>
